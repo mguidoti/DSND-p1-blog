@@ -11,17 +11,25 @@ In fact, I wrongly use files, in plural (commit 8fbda29).
 ```
 
 ### Files
-|File/Folder|Description|
-|--|--|
-|[data/](https://github.com/mguidoti/DSND-p1-blog/tree/master/data)|Files from the [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey) used in this project|
-|[charts/](https://github.com/mguidoti/DSND-p1-blog/tree/master/charts)|Charts *.png used in the blog post|
-|[].gitignore](https://github.com/mguidoti/DSND-p1-blog/blob/master/.gitignore)|Used to ignore vscode config files and .code-workspace file|
-|[LICENSE](https://github.com/mguidoti/DSND-p1-blog/blob/master/LICENSE)|MIT license details|
-|[Pipfile](https://github.com/mguidoti/DSND-p1-blog/blob/master/Pipfile)|Automatically generated file contanining information about the libraries used in this project|
-|[Pipfile.lock](https://github.com/mguidoti/DSND-p1-blog/blob/master/Pipfile.lock)|Lock file with specific info about all libraries and their dependencies used in this project|
-|[README.md](https://github.com/mguidoti/DSND-p1-blog/blob/master/README.md)|This very README file.|
-|[stackoverflow_survey_2020.ipynb](https://github.com/mguidoti/DSND-p1-blog/blob/master/stackoverflow_survey_2020.ipynb)|Actual Jupyter Notebook used in this project|
-
+```
+|--charts
+  |--question_01.png
+  |--question_02.png
+  |--question_03.png
+  |--question_04.png
+  |--question_05.png
+|--data                                             # Data and related files
+  |--README_2020.txt
+  |--so_survey_2020.pdf
+  |--survey_results_public.csv                      # Raw data
+  |--survey_results_schema.csv
+|--.gitignore
+|--.LICENSE
+|--Pipfile
+|--Pipfile.lock
+|--README.md
+|--stackoverflow_survey_2020.ipynb                      # Actual notebook with all code
+```
 
 ## Motivation
 Well, I have a PhD and I'm trying to break into the tech industry. With that being said, and, after [Josh Bernhard's Medium post on how to become a programmer](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711) where Josh analyzed the strategy people used to break into the field, I felt compelled to take a quick look on how sucessfull were the people that also have PhDs or any other doctoral degree - and perhaps more importantly, if their outcome have anything to do with their field of origin.
