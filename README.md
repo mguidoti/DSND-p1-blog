@@ -28,7 +28,7 @@ In fact, I wrongly use files, in plural (commit 8fbda29).
 |--Pipfile
 |--Pipfile.lock
 |--README.md
-|--stackoverflow_survey_2020.ipynb                      # Actual notebook with all code
+|--stackoverflow_survey_2020.ipynb                  # Actual notebook with all code
 ```
 
 ## Motivation
