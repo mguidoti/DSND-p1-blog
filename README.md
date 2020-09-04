@@ -41,6 +41,11 @@ From their [own website](https://insights.stackoverflow.com/survey/2020#overview
 > This year, rather than aiming to be the biggest, we set out to make our survey more representative of the diversity of programmers worldwide. That said, the survey is still big. This year’s survey was taken by nearly 65,000 people.
 
 ## Questions
+1. What's the employment rate of the group and how does it compare with the other educational backgrounds?
+2. What's the employment rate per field of origin?
+3. Can the differences in the employment rate per field of origin be explained by the average programming experience, prior to first pro activity?
+4. Can we draw any conclusions on the observed average compensation per field of origin?
+5. Is there any field of origin that is more succesfull (job satisfaction X compensation) than the others?
 
 ## Libraries
 - [pandas](https://pypi.org/project/pandas/)
@@ -49,6 +54,11 @@ From their [own website](https://insights.stackoverflow.com/survey/2020#overview
 - [matplotlib](https://pypi.org/project/matplotlib/)
 
 ## Summary of Results
+1. Actually, surprisingly enough, doctoral degree holders have the highest employment rate.
+2. Natural sciences, my field of origin, is not fair away from Social Sciences, which presented the highest employment rate.
+3. Fine & Perfoming Arts presented the largest experience before first job. Natural sciences were in the middle, closer to the top than to the bottom.
+4. Social Sciences presented the highest average, on top of Info. Systems and Engineering. Natural sciences was again in the middle, closer to Social Sciences than to the bottom.
+5. Matural Sciences had the second largest job satisfaction. Humanities, the highest. Comp. Science & Eng. the lowest.
 
 ## Acknowledgements
 Matplotlib documentation, StackOverflow (several questions) and [The Python Graph Gallery](https://python-graph-gallery.com/) helped me along the way.
