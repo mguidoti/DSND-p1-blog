@@ -1,6 +1,8 @@
 # README
 This is my work for the very first project of the [Data Scientist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025) from Udacity.
 
+You can access my [blog post here](https://hackmd.io/@mguidoti/S1HcGMJ4w).
+
 ### Disclaimer
 I applied the [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) in this repository, with one addition to the type list: `file`, used when I uploaded or changed non-coding files, like the charts' *.png.
 
